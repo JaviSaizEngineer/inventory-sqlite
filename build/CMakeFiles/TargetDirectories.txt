@@ -1,0 +1,3 @@
+/Users/javiersaizsantos/Documents/carpeta sin título/Tieneda/build/CMakeFiles/inventarios.dir
+/Users/javiersaizsantos/Documents/carpeta sin título/Tieneda/build/CMakeFiles/edit_cache.dir
+/Users/javiersaizsantos/Documents/carpeta sin título/Tieneda/build/CMakeFiles/rebuild_cache.dir
