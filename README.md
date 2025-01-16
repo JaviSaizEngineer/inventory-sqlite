@@ -24,3 +24,4 @@ This is a simple C++ project that demonstrates how to use SQLite for an inventor
 
 1. Clone the repository to your local machine:
    ```bash
+   https://github.com/JaviSaizEngineer/inventory-sqlite.githttps://github.com/JaviSaizEngineer/inventory-sqlite.git
